@@ -54757,7 +54757,7 @@
     "id": "luggit",
     "name": "Luggit",
     "author": "Hyunyoung Park",
-    "description": "Review, stage, commit, push and pull your vault's Git changes from a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Review Git diffs and preserve note content when resolving conflicts from a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lugglory/luggit"
   },
   {
